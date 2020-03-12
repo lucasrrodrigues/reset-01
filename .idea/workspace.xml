@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0fa3266-81a8-4aaa-8cc3-29850e0f4f80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comparador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex3/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex3/Notas_Alunos.java" afterDir="false" />
+    <list default="true" id="7800c27e-4ae7-4c84-82f5-504ea583f1bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Barbaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Clerigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Druida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Feiticeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Guerreiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Magia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/Mago.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/PoderDivino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemaAula01/appRPG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/reset-01/META-INF/reset-01.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +24,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -25,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Yo0Io2gR2UrKv0Cm5QZbH9if4P" />
+  <component name="ProjectId" id="1Z2UIPrT7XrYas4XUYcWc9J7Qw0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,8 +39,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Joao/reset-01" />
   </component>
-  <component name="RunManager" selected="Application.Notas_Alunos">
+  <component name="RunManager" selected="Application.TemaAula01">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="reset-01" />
@@ -55,10 +62,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemaAula01" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemaAula01" />
+      <module name="reset-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Notas_Alunos" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.Notas_Alunos" />
       </list>
     </recent_temporary>
   </component>
@@ -67,58 +81,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c0fa3266-81a8-4aaa-8cc3-29850e0f4f80" name="Default Changelist" comment="" />
-      <created>1583593562516</created>
+      <changelist id="7800c27e-4ae7-4c84-82f5-504ea583f1bf" name="Default Changelist" comment="" />
+      <created>1584036601466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583593562516</updated>
+      <updated>1584036601466</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1583611827483">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1584037428389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583611827483" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583610708811">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584037428389" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584037493588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583610708811" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583613589342">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584037493588" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584037493588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583613589342" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583613589342">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584037493588" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584037493588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583613589342" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583613589342">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584037493588" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584037493588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583613589342" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583613589342">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583613589342" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1583606478659">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583606478659" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1583606478659">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583606478659" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1583606478659">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583606478659" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1583606478659">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583606478659" />
-    <state x="259" y="100" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583606401167">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="259" y="100" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1583606401167" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584037493588" />
   </component>
 </project>
